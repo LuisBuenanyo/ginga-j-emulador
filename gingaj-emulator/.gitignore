@@ -1,0 +1,9 @@
+build/
+*.class
+~*
+*~
+*.swp*
+*.a
+*.so
+*.o
+*.log

@@ -1,0 +1,19 @@
+dtv://1.1.1
+0
+GingaJClass2
+11
+500
+This is a body event - 2
+
+
+///////////////
+Estrutura do Arquivo
+Linha 1: Locator em que o evento deve ser notificado: ex.: dtv://1.1.1
+Linha 2: Tempo (em segundos) até o evento ser notificado
+Linha 3: nome do evento
+Linha 4: id do evento
+Linha 5: duration do evento
+Linha 6: conteúdo do evento
+
+Linhas 1 e 2: Configuração do Emulador.
+Linhas 3 - 6: Configuração do Evento.
